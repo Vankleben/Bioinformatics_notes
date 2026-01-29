@@ -4,3 +4,5 @@
  3. UniProt(蛋白质序列数据库)
  4. BioMart(数据检索平台)
  5. 非编码基因数据库
+	 1. ENCODE
+	 2. miRBase
